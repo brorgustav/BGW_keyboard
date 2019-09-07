@@ -1,6 +1,6 @@
 BGW_keyboard
 
-www.synthbror.com Keyboard library for making musical/midi instrument, modified library of Keypad by Chris A
+www.synthbror.com Keyboard library for making musical/midi instrument, modified library of https://github.com/Chris--A/Keypad
 
 Designed and tested with MKRZERO (M0)
 
